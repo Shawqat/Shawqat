@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Mahmoud from Egypt<br><br>- 🔭 I’m working as a Learner :D<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I play football</p>
+<p align="left">I'm Mahmoud from Egypt<br><br>- 🔭 I’m working as a Learner :D<br>- 📚 I'm currently learning<br>- ⚡ In my free time I play football</p>
 
 ###
 
